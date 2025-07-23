@@ -131,7 +131,3 @@ curl --location 'https://<api-id>.execute-api.<region>.amazonaws.com/dev/files?f
 ```
 
 ---
-
-## 📄 License
-
-This project is open-sourced under the MIT License.
